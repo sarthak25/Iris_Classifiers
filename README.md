@@ -1,14 +1,13 @@
 # Iris_Classifiers
 
 Data
+
 The dataset used in this project is included as iris.csv. This dataset is a freely available on the UCI Machine Learning Repository. This dataset has the following attributes:
 
 Features
-
 Features: SepalLengthCm , SepalWidthCm, PetalLengthCm, PetalWidthCm
 
 Target Variable
-
 Target: Species
 
 Outcome
