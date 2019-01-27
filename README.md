@@ -6,13 +6,13 @@ The dataset used in this project is included as iris.csv. This dataset is a free
 
 **Features**
 
-Features: SepalLengthCm , SepalWidthCm, PetalLengthCm, PetalWidthCm
+'Features': SepalLengthCm , SepalWidthCm, PetalLengthCm, PetalWidthCm
 
 **Target** **Variable**
 
-Target: Species
+'Target': Species
 
-Outcome
+### Outcome
 
 We basically used 3 types of classifiers to predict the outcome of the IRIS types.
 
